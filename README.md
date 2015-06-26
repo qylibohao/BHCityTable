@@ -1,2 +1,2 @@
 # BHCityTable-
-![image](BHCityTable/resource/intro.png)
+![image](BHCityTable/BHCityTable/resource/intro.png)
